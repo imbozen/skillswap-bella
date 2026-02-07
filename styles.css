@@ -27,3 +27,14 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+}
