@@ -38,3 +38,14 @@ footer {
   color: white;
   text-decoration: none;
 }
+
+.skills {
+  display: flex;
+  gap: 1rem;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  cursor: pointer;
+}
