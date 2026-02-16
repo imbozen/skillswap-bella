@@ -1,0 +1,24 @@
+{
+  "name": "skillswap-bella",
+  "version": "1.0.0",
+  "description": "Skill Swap is a peer-to-peer platform where students can offer and request skills such as tutoring, coding help, and writing assistance.",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imbozen/skillswap-bella.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/imbozen/skillswap-bella/issues"
+  },
+  "homepage": "https://github.com/imbozen/skillswap-bella#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
